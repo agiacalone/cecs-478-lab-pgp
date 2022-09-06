@@ -24,11 +24,11 @@ If you get anything else from me other than a *PGP encrypted message*, you are *
 Once you have completed my final instruction inside of that PGP encrypted message, you are done with the assignment.
 
 ## One Really Important Item!
-I get a metric *ton* of email every day, and I don't want to miss your message. I will need you to include the following email subject line as follows:
+I get a *metric ton* of email every day, and I don't want to miss your email message. In order to ensure that I don't, I will need you to use the following email subject line for all email messages regarding this assignment:
 
 `cecs 478 pgp encryption - [your name]`
 
-If the header is not there, my filter will not catch it and you will probably lose points. Please make sure it is included on all emails for this assignment.
+If the header is not there, my filter will not catch it and you will probably lose points.
 
 ### Two Common Issues From Past Assignments
 * Not including your PGP signature in the message (not the public key, the *signature*)
