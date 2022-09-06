@@ -3,7 +3,9 @@
 ## Assignment Description
 This assignment is designed to demonstrate how PGP encryption works by using open-source and *auditable* tools to encrypt email.
 
-Download [GnuPG](https://gnupg.org/) in your virtual machine image and create a public/private key pair. Github has some [good documentation on how to do this here](https://docs.github.com/en/authentication/managing-commit-signature-verification/generating-a-new-gpg-key).
+You will be emailing me a message using PGP encryption. All steps *must be done in your virtual machine*, with the exception of copying/pasting the encrypted message, signature, and public key from your virtual machine to your email client on your main computer. All other files (such as the private key) must remain on your virtual machine at all times.
+
+Download [GnuPG](https://gnupg.org/) in your virtual machine image (use apt--your package manager on Ubuntu Linux, not the website download) and create a public/private key pair. Github has some [good documentation on how to do this here](https://docs.github.com/en/authentication/managing-commit-signature-verification/generating-a-new-gpg-key).
 
 First, your public key must be uploaded to the [keyserver at openpgp.org](https://keys.openpgp.org) for this to work.
 
