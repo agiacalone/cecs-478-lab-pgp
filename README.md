@@ -11,7 +11,7 @@ Since our email system likes to filter out non-\*.edu addresses, you will need t
 
 Download [GnuPG](https://gnupg.org/) in your virtual machine image (use apt--your package manager on Ubuntu Linux, not the website download) and create a public/private key pair. Github has some [good documentation on how to do this here](https://docs.github.com/en/authentication/managing-commit-signature-verification/generating-a-new-gpg-key).
 
-First, your public key must be uploaded to the [keyserver at openpgp.org](https://keys.openpgp.org) for this to work. You may copy\ that from your virtual machine to your main computer or you may upload it directly.
+First, your public key must be uploaded to the [keyserver at openpgp.org](https://keys.openpgp.org) for this to work. You may copy that from your virtual machine to your main computer or you may upload it directly.
 
 Next, I want you to find your favorite short-story, long form poem, comic (words only, sadly), or similar form of literature (something longer than a few paragraphs). You may copy/paste this from another source. It must be long enough for me to pick a random phrase out from it and email it back to you. 
 
