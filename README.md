@@ -23,7 +23,7 @@ If you get anything else from me other than a *PGP encrypted message*, you are *
 
 Once you have completed my final instruction inside of that PGP encrypted message, you are done with the assignment.
 
-## One Really Important Item!
+## [One Really Important Item!](#One-Really-Important-Item!)
 I get a *metric ton* of email every day, and I don't want to miss your email message. In order to ensure that I don't, I will need you to use the following email subject line for all email messages regarding this assignment:
 
 `cecs 478 pgp encryption - [your name]`
