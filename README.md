@@ -17,7 +17,7 @@ I will verify your message by responding with a pgp encrypted phrase, which will
 
 If you get anything else from me other than a *PGP encrypted message*, you are **not done**. Likely, you have an error somewhere in the process which must be corrected.
 
-Once you have completed my final instruction, you are done with the assignment.
+Once you have completed my final instruction inside of that PGP encrypted message, you are done with the assignment.
 
 ### Two Common Issues From Past Assignments
 * Not including your PGP signature in the message (not the public key, the *signature*)
