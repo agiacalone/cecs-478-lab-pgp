@@ -3,7 +3,7 @@
 ## Assignment Description
 This assignment is designed to demonstrate how PGP encryption works by using open-source and *auditable* tools to encrypt email messages. It will work equally well on just about any plain-text message.
 
-NOTE! Before you send me *anything*, review the item below labeled [One Really Important Item!]
+NOTE! Before you send me *anything*, review the item below labeled [One Really Important Item!](#One Really Important Item!)
 
 You will be emailing me a message using PGP encryption. All steps *must be done in your virtual machine*, with the exception of copying/pasting the encrypted message, signature, and public key from your virtual machine to your email client on your main computer. All other files (such as the private key) must remain on your virtual machine at all times.
 
