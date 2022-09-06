@@ -3,6 +3,8 @@
 ## Assignment Description
 This assignment is designed to demonstrate how PGP encryption works by using open-source and *auditable* tools to encrypt email messages. It will work equally well on just about any plain-text message.
 
+NOTE! Before you send me *anything*, review the item below labeled "One Really Important Item!"
+
 You will be emailing me a message using PGP encryption. All steps *must be done in your virtual machine*, with the exception of copying/pasting the encrypted message, signature, and public key from your virtual machine to your email client on your main computer. All other files (such as the private key) must remain on your virtual machine at all times.
 
 Since our email system likes to filter out non-\*.edu addresses, you will need to use your student email for this assignment. Any other email addresses used for this assignment will be *discarded*, so ensure you are using the correct address.
@@ -20,6 +22,13 @@ I will verify your message by responding with a pgp encrypted phrase, which will
 If you get anything else from me other than a *PGP encrypted message*, you are **not done**. Likely, you have an error somewhere in the process which must be corrected.
 
 Once you have completed my final instruction inside of that PGP encrypted message, you are done with the assignment.
+
+## One Really Important Item!
+I get a metric *ton* of email every day, and I don't want to miss your message. I will need you to include the following email subject line as follows:
+
+`cecs 478 pgp encryption - [your name]`
+
+If the header is not there, my filter will not catch it and you will probably lose points. Please make sure it is included on all emails for this assignment.
 
 ### Two Common Issues From Past Assignments
 * Not including your PGP signature in the message (not the public key, the *signature*)
