@@ -3,7 +3,7 @@
 ## Assignment Description
 This assignment is designed to demonstrate how PGP encryption works by using open-source and *auditable* tools to encrypt email messages. It will work equally well on just about any plain-text message.
 
-NOTE! Before you send me *anything*, review the item below labeled [One Really Important Item!](#One-Really-Important-Item!)
+NOTE! Before you send me *anything*, review the item below labeled [One Really Important Item!](#One-Really-Important-Item)
 
 You will be emailing me a message using PGP encryption. All steps *must be done in your virtual machine*, with the exception of copying/pasting the encrypted message, signature, and public key from your virtual machine to your email client on your main computer. All other files (such as the private key) must remain on your virtual machine at all times.
 
@@ -23,7 +23,7 @@ If you get anything else from me other than a *PGP encrypted message*, you are *
 
 Once you have completed my final instruction inside of that PGP encrypted message, you are done with the assignment.
 
-## [One Really Important Item!](#One-Really-Important-Item!)
+## [One Really Important Item!](#One-Really-Important-Item)
 I get a *metric ton* of email every day, and I don't want to miss your email message. In order to ensure that I don't, I will need you to use the following email subject line for all email messages regarding this assignment:
 
 `cecs 478 pgp encryption - [your name]`
