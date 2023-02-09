@@ -26,9 +26,9 @@ Once you have completed my final instruction inside of that PGP encrypted messag
 ## [One Really Important Item!](#One-Really-Important-Item)
 I get a *metric ton* of email every day, and I don't want to miss your email message. In order to ensure that I don't, I will need you to use the following email subject line for all email messages regarding this assignment:
 
-`cecs 478 pgp encryption - [your name]`
+`cecs 478 lab pgp encryption - [your name]`
 
-If the header is not there, my filter will not catch it and you will probably lose points.
+If the subject line is not exact, my filter will probably not catch it and you will probably lose points.
 
 ### Two Common Issues From Past Assignments
 * Not including your PGP signature in the message (not the public key, the *signature*)
